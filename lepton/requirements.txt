@@ -1,0 +1,6 @@
+leptonai
+transformers
+torch
+torchvision
+torchaudio
+accelerate
